@@ -1,0 +1,4 @@
+Resources List:
+* https://matplotlib.org/stable/tutorials/colors/colormaps.html
+* https://colordesigner.io/gradient-generator
+* https://queirozf.com/entries/add-labels-and-text-to-matplotlib-plots-annotation-examples
