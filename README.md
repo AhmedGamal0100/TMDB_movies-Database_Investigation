@@ -1090,7 +1090,7 @@ last_genre.head()
 </div>
 
 ```python
-# now we have get the count of genres for 2015
+# now we have to get the count of genres for 2015
 genre_2015= last_genre[last_genre['release_year']==last_years[0]]
 genre_2015= genre_2015['genres'].value_counts()
 genre_2015
@@ -1118,7 +1118,7 @@ genre_2015
     Name: genres, dtype: int64
 
 ```python
-# now we have get the count of genres for 1990
+# now we have to get the count of genres for 1990
 genre_1990= last_genre[last_genre['release_year']==last_years[1]]
 genre_1990= genre_1990['genres'].value_counts()
 genre_1990
